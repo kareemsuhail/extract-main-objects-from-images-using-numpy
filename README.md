@@ -11,7 +11,7 @@ you can use this idea for many things in addition to fulfill designers needs suc
 * isolate important objects in your image from background
 ### Prerequisites
 
-Before reading and testing this example you need to know at least the basics of numpy ( matplotlib is required)
+Before reading and testing this example you will need to know at least the basics of numpy ( matplotlib is required)
 ### What is next ?
 
 you can do these enhancements as a training :
