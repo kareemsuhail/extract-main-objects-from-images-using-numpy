@@ -48,4 +48,4 @@ def cutOff(image,mask,power=0.2):
     plt.imshow(image_np)
     plt.show()
 # let us test our code
-cutOff("captain-america.jpg","face.jpg",0.13)
+cutOff("captain-america.jpg","geeks.jpg",0.4)
